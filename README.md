@@ -1,4 +1,4 @@
-####Pseudocode
+#### Pseudocode
 
 1) Iterate thru array elements. Check which of the subsequent values is the largest. Determine index of that large value. So now you have current value, large value, index of current value, and index of large value. Perform large value - current value. Push current index, large index, and the subtracted value into some kind of nested collection; try a hash. Repeat.
 
